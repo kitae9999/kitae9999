@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 [![ASH's Top Langs](https://github-readme-stats-kappa-kohl-60.vercel.app/api/top-langs/?username=kitae9999&layout=compact&show_icons=true&theme=dracula&langs_count=10&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 Naver Boost Camp - Basic 2025.06 ~ 2025.07
+- 🔥 Naver Boost Camp - Challenge 2025.07 ~ 2025.08
 <!--
 **kitae9999/kitae9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
