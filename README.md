@@ -12,12 +12,6 @@
 
 
 
-<div align=center><h1>✨ HISTORY </h1></div>
-- 🔭 Naver Boost Camp Web&Moblie - Basic 2025.06 ~ 2025.07
-<br>
-- 🔥 Naver Boost Camp Web&Moblie - Challenge 2025.07 ~ 2025.08
-<br>
-- 😎 Naver Boost Camp Web&Moblie - Membership 2025.08 ~ 
 <!--
 **kitae9999/kitae9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
