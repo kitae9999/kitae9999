@@ -26,7 +26,7 @@ I currently build and operate OpenLog. If you are interested in agentic developm
 
 | Project | What it is | Core stack |
 | --- | --- | --- |
-| [OpenLog](https://github.com/kitae9999/OpenLog) | AI-native developer workspace and collaborative publishing platform | Next.js · Kotlin · Spring Boot · PostgreSQL · Redis · Kafka · MCP |
+| [OpenLog](https://github.com/kitae9999/OpenLog) | AI-native developer workspace and collaborative publishing platform | Next.js · Kotlin · Spring Boot · PostgreSQL · Redis · Kafka · Debezium · MCP |
 | [BoostAD](https://github.com/boostcampwm2025/web27-BoostAD) | Context-aware advertising platform for developer blogs | React · NestJS · MySQL · Redis · Transformers |
 
 ## Tech stack
@@ -36,6 +36,7 @@ I currently build and operate OpenLog. If you are interested in agentic developm
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
@@ -66,6 +67,7 @@ I currently build and operate OpenLog. If you are interested in agentic developm
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/Debezium-FF5C5C?style=flat-square" alt="Debezium"/>
 </p>
 
 #### AI & agentic development
