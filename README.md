@@ -28,8 +28,6 @@ I currently build and operate OpenLog. If you are interested in agentic developm
 | --- | --- | --- |
 | [OpenLog](https://github.com/kitae9999/OpenLog) | AI-native developer workspace and collaborative publishing platform | Next.js · Kotlin · Spring Boot · PostgreSQL · Redis · Kafka · MCP |
 | [BoostAD](https://github.com/boostcampwm2025/web27-BoostAD) | Context-aware advertising platform for developer blogs | React · NestJS · MySQL · Redis · Transformers |
-| [Kotlin Continuous IntelliSense](https://github.com/kitae9999/kotlin-lsp-continuous-completion) | Continuous completion and auto-import tooling for Kotlin LSP | Kotlin · JavaScript · Gradle · VS Code API · LSP |
-| [Window to PDF](https://github.com/kitae9999/window-to-pdf) | macOS CLI for automated window capture and document workflows | Python · PyObjC · Quartz · Cocoa |
 
 ## Tech stack
 
@@ -38,7 +36,6 @@ I currently build and operate OpenLog. If you are interested in agentic developm
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
